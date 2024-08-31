@@ -42,8 +42,7 @@ Output Structure:
    - Include any relevant links or resources for candidates to learn more about the company.
 
 8. **Salary Range**:
-   - Clearly state the salary range for the position, aligning it with industry standards and the candidate's expected level of experience.
-
+      -as mentioned in input
 9. **Job Information**:
    - Include any additional details or important information about the job that candidates should know.
    - If applicable, provide links to the company’s website or specific resources related to the role.
